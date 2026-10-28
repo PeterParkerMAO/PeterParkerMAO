@@ -1,16 +1,17 @@
-## Hi there 👋
+# Rely Fernandes
 
-<!--
-**PeterParkerMAO/PeterParkerMAO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor de dados e IA em Manaus, AM. Trainee na FPFtech, onde trabalho com pipelines de dados, agentes de IA e infraestrutura em Kubernetes.
 
-Here are some ideas to get you started:
+## No que trabalho
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Agentes e chatbots com IA generativa (RAG, MCP, Agno, CrewAI)
+- Pipelines de dados com Apache Airflow
+- Machine learning: treino, validação e métricas de modelos
+
+## Stack
+
+Python · TypeScript · Angular · Django · FastAPI · PostgreSQL · Docker · Kubernetes · GitLab CI
+
+## Contato
+
+[LinkedIn](https://linkedin.com/in/rely-fernandes-0ab00a1a3) · relydhony@gmail.com
